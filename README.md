@@ -2,12 +2,12 @@
 <img src="https://github.com/BestModules-Libraries/img/blob/main/BMA92K202_V1.0.png" width="480" height="240"> 
 </div> 
 
-BM92S2021-A 
+BM12O2321_A
 ===========================================================
 
-BM92S2021-A is a color recognition module launched by Flextron, which uses 9-bit single-wire bidirectional UART communication Letter way.This document describes how to install Arduino Lib on the BM92S2021-A Arduino Lib function. The example demonstrates features such as getting colors.
+BM12O2321-A is an H-bridge driver module launched by Basetron, which uses 9-bit single-wire bidirectional UART communication Letter way.This document describes how to install Arduino Lib on the Arduino Lib function of the BM12O2321-A. The example demonstrates the function of sending single step delay operation command to H bridge and obtaining load current
 
-This library can be installed via the Arduino Library manager. Search for **BM92S2021-A**. 
+This library can be installed via the Arduino Library manager. Search for **BM12O2321_A**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM92S2021-A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm92s2021-a.html#tab-product2 )** - Arduino Library Description.
+* **[BM12O2321_A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm12o2321_a.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
