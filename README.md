@@ -7,6 +7,16 @@ BM12O2321-A
 
 BM12O2321-A is an H-bridge driver module launched by Basetron, which uses 9-bit single-wire bidirectional UART communication method.This document describes how to install Arduino Lib on the Arduino Lib function of the BM12O2321-A. The example demonstrates the function of sending single step delay operation command to H bridge and obtaining load current.
 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                   |
+|:---------:|:----------------------------:|
+|BM12O2321-A|H-bridge drive module|
+|BMD12K232  |H-bridge drive module,contains an adapter board, a connection Line and the BM12O2321-A module |
+
+</div> 
+
 This library can be installed via the Arduino Library manager. Search for **BM12O2321-A**. 
 
 Repository Contents
